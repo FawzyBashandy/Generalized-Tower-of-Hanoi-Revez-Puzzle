@@ -4,7 +4,7 @@ This solution uses dynamic programming to optimally solve the Tower of Hanoi pro
 
 ## Algorithm
 
-The dynamic programming approach calculates the minimum number of moves required to solve the Tower of Hanoi problem optimally.
+The dynamic programming approach calculates the minimum number of moves and return the the movements required to solve the Tower of Hanoi problem optimally.
 
 ## Compilation and Execution
 
